@@ -1,0 +1,74 @@
+2023-07-11 17:37:37,738 : INFO :test_naukri :Entering login details
+2023-07-11 17:38:08,311 : INFO :test_naukri :Entering login details
+2023-07-11 17:38:12,012 : INFO :test_naukri :Entering job searching details
+2023-07-11 17:38:16,144 : INFO :test_naukri :making filter-out the details
+2023-07-11 17:38:44,408 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-11 17:45:21,480 : INFO :test_naukri :Entering login details
+2023-07-11 17:45:25,142 : INFO :test_naukri :Entering job searching details
+2023-07-11 17:45:30,629 : INFO :test_naukri :making filter-out the details
+2023-07-11 17:46:00,126 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-11 17:46:59,646 : INFO :test_naukri :Entering login details
+2023-07-11 17:46:59,646 : INFO :test_naukri :Entering login details
+2023-07-11 17:47:03,098 : INFO :test_naukri :Entering job searching details
+2023-07-11 17:47:03,098 : INFO :test_naukri :Entering job searching details
+2023-07-11 17:47:06,861 : INFO :test_naukri :making filter-out the details
+2023-07-11 17:47:06,861 : INFO :test_naukri :making filter-out the details
+2023-07-11 17:47:35,961 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-11 17:47:35,961 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-11 17:56:00,419 : INFO :test_naukri :Entering login details
+2023-07-11 17:56:04,171 : INFO :test_naukri :Entering job searching details
+2023-07-11 17:56:08,606 : INFO :test_naukri :making filter-out the details
+2023-07-11 17:56:37,887 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-11 17:57:35,725 : INFO :test_naukri :Entering login details
+2023-07-11 17:57:35,725 : INFO :test_naukri :Entering login details
+2023-07-11 17:57:39,152 : INFO :test_naukri :Entering job searching details
+2023-07-11 17:57:39,152 : INFO :test_naukri :Entering job searching details
+2023-07-11 17:57:42,938 : INFO :test_naukri :making filter-out the details
+2023-07-11 17:57:42,938 : INFO :test_naukri :making filter-out the details
+2023-07-11 17:58:11,833 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-11 17:58:11,833 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-12 11:14:39,835 : INFO :test_naukri :Entering login details
+2023-07-12 11:14:43,321 : INFO :test_naukri :Entering job searching details
+2023-07-12 11:14:47,411 : INFO :test_naukri :making filter-out the details
+2023-07-12 11:15:16,363 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-12 11:16:14,584 : INFO :test_naukri :Entering login details
+2023-07-12 11:16:14,584 : INFO :test_naukri :Entering login details
+2023-07-12 11:16:18,169 : INFO :test_naukri :Entering job searching details
+2023-07-12 11:16:18,169 : INFO :test_naukri :Entering job searching details
+2023-07-12 11:16:22,106 : INFO :test_naukri :making filter-out the details
+2023-07-12 11:16:22,106 : INFO :test_naukri :making filter-out the details
+2023-07-12 11:16:50,665 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-12 11:16:50,665 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-12 11:35:42,845 : INFO :test_page_responding :Page responding successfully!
+2023-07-12 11:36:47,904 : INFO :test_page_responding :Page responding successfully!
+2023-07-12 11:38:29,607 : INFO :test_page_responding :Page responding successfully!
+2023-07-12 12:05:09,938 : INFO :test_page_responding :Page https://www.naukri.com/ responding successfully!
+2023-07-12 12:09:06,481 : INFO :test_page_responding :Page https://www.naukri.com/ responding successfully!
+2023-07-12 12:10:16,318 : INFO :test_page_responding :Page https://www.naukri.com/ responding successfully!
+2023-07-12 12:11:04,681 : INFO :test_page_responding :Page https://www.naukri.com/ responding successfully!
+2023-07-12 12:12:44,028 : INFO :test_page_responding :Page https://www.naukri.com/ responding successfully!
+2023-07-12 12:13:47,340 : INFO :test_page_responding :Page https://www.naukri.com/ responding successfully!
+2023-07-12 12:14:45,180 : INFO :test_page_responding :Page https://www.naukri.com/ responding successfully!
+2023-07-12 12:23:21,853 : INFO :test_page_responding :True
+2023-07-12 12:23:21,854 : INFO :test_page_responding :Page https://www.naukri.com/ is not responding successfully
+2023-07-13 15:47:18,932 : INFO :test_naukri :Entering login details
+2023-07-13 15:47:22,420 : INFO :test_naukri :Entering job searching details
+2023-07-13 15:47:26,721 : INFO :test_naukri :making filter-out the details
+2023-07-13 15:47:59,447 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-13 15:48:58,528 : INFO :test_naukri :Entering login details
+2023-07-13 15:48:58,528 : INFO :test_naukri :Entering login details
+2023-07-13 15:49:02,195 : INFO :test_naukri :Entering job searching details
+2023-07-13 15:49:02,195 : INFO :test_naukri :Entering job searching details
+2023-07-13 15:49:06,330 : INFO :test_naukri :making filter-out the details
+2023-07-13 15:49:06,330 : INFO :test_naukri :making filter-out the details
+2023-07-13 15:49:37,418 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-13 15:49:37,418 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-13 16:51:33,863 : INFO :test_naukri :Entering login details
+2023-07-13 16:52:42,604 : INFO :test_naukri :Entering login details
+2023-07-13 16:52:46,046 : INFO :test_naukri :Entering job searching details
+2023-07-13 16:52:50,395 : INFO :test_naukri :making filter-out the details
+2023-07-13 16:53:16,755 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-14 13:42:07,045 : INFO :test_naukri :Entering login details
+2023-07-14 13:42:12,370 : INFO :test_naukri :Entering job searching details
+2023-07-14 13:42:18,320 : INFO :test_naukri :making filter-out the details
+2023-07-14 13:42:50,556 : INFO :test_naukri :fetched all the details according to employee need!
