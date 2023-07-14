@@ -8,7 +8,7 @@ class LogInData:
     @staticmethod
     def getTestData(test_case_name):
         Dict = {}
-        book = openpyxl.load_workbook("D:/Anjan_L_S/python_testing/e-commerce/TestData/E-CommerceData.xlsx")
+        book = openpyxl.load_workbook("/TestData/E-CommerceData.xls")
         sheet = book.active
         for i in range(1, sheet.max_row + 1):
             if sheet.cell(row=i, column=1).value == test_case_name:
