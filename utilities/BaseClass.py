@@ -14,7 +14,7 @@ class BaseClass:
         body = self.driver.find_element(By.TAG_NAME, "body")
         for i in range(num_iterations):
             body.send_keys(Keys.PAGE_DOWN)  # To scroll down
-            time.sleep(5)  # wait for each iteration
+            time.sleep(3)  # wait for each iteration
         self.driver.execute_script("window.scrollTo(0, 0);")  # To scroll up
         time.sleep(5)
 
