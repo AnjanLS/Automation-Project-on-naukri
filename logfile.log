@@ -1,0 +1,12 @@
+2023-07-14 17:30:26,475 : INFO :test_naukri :Entering login details
+2023-07-14 17:30:29,921 : INFO :test_naukri :Entering job searching details
+2023-07-14 17:30:33,844 : INFO :test_naukri :making filter-out the details
+2023-07-14 17:31:03,072 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-14 17:54:31,187 : INFO :test_naukri :Entering login details
+2023-07-14 17:54:36,532 : INFO :test_naukri :Entering job searching details
+2023-07-14 17:54:40,955 : INFO :test_naukri :making filter-out the details
+2023-07-14 17:55:10,361 : INFO :test_naukri :fetched all the details according to employee need!
+2023-07-14 17:56:52,524 : INFO :test_naukri :Entering login details
+2023-07-14 17:56:55,972 : INFO :test_naukri :Entering job searching details
+2023-07-14 17:57:01,198 : INFO :test_naukri :making filter-out the details
+2023-07-14 17:57:32,678 : INFO :test_naukri :fetched all the details according to employee need!
