@@ -72,3 +72,8 @@
 2023-07-14 13:42:12,370 : INFO :test_naukri :Entering job searching details
 2023-07-14 13:42:18,320 : INFO :test_naukri :making filter-out the details
 2023-07-14 13:42:50,556 : INFO :test_naukri :fetched all the details according to employee need!
+2023-08-06 14:09:16,843 : INFO :test_naukri :Entering login details
+2023-08-06 14:09:20,355 : INFO :test_naukri :Entering job searching details
+2023-08-06 14:09:25,485 : INFO :test_naukri :making filter-out the details
+2023-08-06 14:09:52,629 : INFO :test_naukri :fetched all the details according to employee need!
+2023-08-06 14:12:32,495 : INFO :test_naukri :Entering login details

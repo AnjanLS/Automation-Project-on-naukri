@@ -22,7 +22,7 @@ class BaseClass:
         loggerName = inspect.stack()[1][3]
         logger = logging.getLogger(loggerName)
 
-        fileHandler = logging.FileHandler('logfile.log')
+        fileHandler = logging.FileHandler('D:/Anjan_L_S/python_testing/e-commerce/reports/logfile.log')
         formatter = logging.Formatter("%(asctime)s : %(levelname)s :%(name)s :%(message)s")
         fileHandler.setFormatter(formatter)
 

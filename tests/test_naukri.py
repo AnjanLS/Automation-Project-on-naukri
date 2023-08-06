@@ -46,6 +46,6 @@ class TestJob_search(BaseClass):
         self.driver.get("https://www.naukri.com/")
 
 
-@pytest.fixture(params=LogInData.getTestData("Testcase3"))
+@pytest.fixture(params=LogInData.getTestData("Testcase2"))
 def getData(request):
     return request.param
